@@ -1,37 +1,78 @@
-# github
-## heading 2
-### heading 3
-#### heading 4
-##### heading 5
-###### heading 6
-# text styles
-*italic style*<br/>
-## bold style
-**bold style**
-### bold + italic
-***new***<br/>
-*****data to be analysed*****<br/>
-[ADITYA](https://www.aec.edu.in/)
-|s.no|NAME|BRANCH|ROLLNUMBER|
-|----|----|------|----------|
-|1|subhash|cse|20a91a05i8|
-|2|pradeep|cse|20a91a05h6|
-|3|surya|cse|20a91a05j0|
-# ordered list
-## programming languages
-1. c
-2. c++
-3. java
-4. python
-5. pearl
-6. ruby
-7. fortan
-8.R
-# unordered list
-## scripting languages
-- java script
-- angular js
-- python
-- flutter
-- html
-- c
+# Heading1
+## Heading2
+### Heading3
+#### Heading4
+##### Heading5
+###### Heading6
+
+# Text Styles
+
+#Italic
+*Italic Data Here*
+
+#Bold
+**Hello World**
+
+#italic and bold
+***Aditya Engineering College***
+
+#linking
+
+[google](www.google.com)
+
+![Gojo](gojo.jpg)
+
+
+|S.no|Name|Branch|Roll-Number|
+|----|----|------|-----------|
+|1|Ajay|CSE|H4|
+|2|Sathwik|CSE|D6|
+
+#List
+
+##Ordered List
+
+1. Name
+2. Roll Number
+3. Branch
+4. College
+
+##Unorederd List
+-- Name
+-- Roll Number
+-- Branch
+-- College
+
+* Name
+* Roll Number
+* Branch
+* College
+
+##Nested List
+1. Name
+   1. First
+   2. Last
+   3. Middle
+2. Github
+   1. Username
+   2. Mail Id
+   3. Password
+
+```python
+   def hello()
+       a=10
+       b=20
+       c=30
+       if (a+b+c%2==0)
+           print(a+b+c)
+```
+
+<html>
+  <head>
+    <title>Web Page</title>
+  </head>
+  <body bgcolor="blue">
+    <h1>Welcome to the webpage</h1>
+    <a href="https://www.aec.edu.in/"><b>Aditya</b></a>
+  </body>
+</html>
